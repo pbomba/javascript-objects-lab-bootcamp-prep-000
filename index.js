@@ -1,1 +1,1 @@
-var recipes = {stuff};
+var recipes = { ingredients : 'thing'};
